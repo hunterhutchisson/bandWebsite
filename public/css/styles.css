@@ -1,0 +1,7 @@
+body{
+    background-color: yellow;
+}
+.header{
+    background-image: url("../images/live.jpeg");
+    height: 400px;
+}
