@@ -1,14 +1,14 @@
 {
     "albums": [{
         "shortname": "longDrive",
-        "albumname" : "This Is a Long Drive for Someone with Nothing to Think About",
+        "albumName" : "This Is a Long Drive for Someone with Nothing to Think About",
         "summary" : "This Is a Long Drive for Someone with Nothing to Think About is the debut studio album by American rock band Modest Mouse, released on April 16, 1996 by Up Records. Many of the album's tracks focus on traveling by automobile and the loneliness associated with rural life.",
         "artwork": ["longDrive.jpeg"],
         "tracklist": ["Dramamine","Breakthrough", "Custom Concern", "Might", "Lounge", "Beach Side Property", "She Ionizes & Atomizes", "Head South", "Dog Paddle", "Novocain Stain", "Tundra/Desert", "Ohio", "Exit Does Not Exist", "Talking Shit About a Pretty Sunset", "Make Everyone Happy/Mechanical Birds", "Space Travel Is Boring"],
         "publishDate": "1996"
     },{
         "shortname": "crowdedWest",
-        "albumname" : "The Lonesome Crowded West",
+        "albumName" : "The Lonesome Crowded West",
         "summary": "The Lonesome Crowded West received positive reviews from critics, and appeared on several lists of the best albums of the 1990s.",
         "artwork": ["crowdedWest.jpeg"],
         "tracklist": ["Teeth Like God's ShoeShine","Heart Cooks Brain", "Convenient Parking", "Lounge (Closing Time)", "Jesus Christ Was an Only Child", "Doin' the Cockroach", "Cowboy Dan", "Trailer Trash", "Out of Gas", "Long Distance Drunk", "Shit Luck", "Truckers Atlas", "Polar Opposites", "Bankrupt on Selling", "Styrofoam Boots"],
@@ -16,14 +16,14 @@
     },{
 
         "shortname": "moon",
-        "albumname" : "The Moon & Antartica",
+        "albumName" : "The Moon & Antartica",
         "summary": "The Moon & Antarctica is the third studio album by American rock band Modest Mouse, released on June 13, 2000 by Epic Records. The album's title is taken from the opening scene of the 1982 film Blade Runner, where the main character (Rick Deckard) reads a newspaper headlined \"Farming the Oceans, the Moon and Antarctica\".",
         "artwork" : ["moon.jpeg"],
         "tracklist": ["3rd Planet","Gravity Rides Everything", "Dark Center of the Universe", "Perfect Disguise"],
         "description" :"2000"
     },{
         "shortname": "goodNews",
-        "albumname" : "Good News for People Who Love Bad News",
+        "albumName" : "Good News for People Who Love Bad News",
         "summary": "Red is the fourth studio album by American singer-songwriter Taylor Swift. It was released on October 22, 2012, by Big Machine Records, as the follow-up to her third studio album, Speak Now. The album title was inspired by the semi-toxic relationships that Swift experienced during the process of conceiving this album, with Swift describing the emotions she felt as red emotions due to their intense and tumultuous nature. Red touches on Swift's signature themes of love and heartbreak, however, from a more mature perspective while exploring other themes such as fame and the pressure of being in the limelight. Worldwide, Red has sold 7 million copies as of December 2017. It was Swift's third consecutive top-selling album of the year in the United States, managing to be the second best-selling album of 2012 across all genres only two months after its release.",
         "artwork" : ["goodNews.jpeg"],
         "tracklist": ["Horn Intro","The World at Large", "Float On", "Ocean Breathes Salty"],
